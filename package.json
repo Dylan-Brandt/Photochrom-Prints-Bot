@@ -1,0 +1,16 @@
+{
+  "name": "photochromprints",
+  "version": "1.0.0",
+  "description": "Node project to access Library of Congress collection Photochrom Prints",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dylan Brandt",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "node-fetch": "^3.3.0",
+    "twitter-api-v2": "^1.12.9"
+  }
+}
